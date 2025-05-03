@@ -1,6 +1,6 @@
-Data Structures and Algorithms in C
+## Data Structures and Algorithms in C
 
-Overview
+## Overview
 
 This repository contains implementations of fundamental data structures and algorithms in C. I
 
@@ -12,14 +12,14 @@ Various algorithmic techniques and problem-solving approaches.
 
 Optimized C code.
 
-Table of Contents
+## Table of Contents
 
-Data Structures
+ Data Structures
 
-Algorithms
+ Algorithms
 
 
-Data Structures
+## Data Structures
 
 Arrays (Sorting, Searching, etc.)
 
@@ -35,7 +35,7 @@ Graphs (Adjacency List, Adjacency Matrix, BFS, DFS)
 
 Hashing (Hash Tables, Collision Handling)
 
-Algorithms
+## Algorithms
 
 Sorting (Bubble Sort, Merge Sort, Quick Sort, etc.)
 
@@ -43,10 +43,6 @@ Searching (Binary Search, Linear Search, etc.)
 
 Graph Algorithms (Kruskal’s, Prim’s)
 
-
-Setup & Compilation
-
-Prerequisites
 
 GCC Compiler
 
